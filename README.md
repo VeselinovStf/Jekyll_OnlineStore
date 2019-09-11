@@ -10,3 +10,5 @@ source ( https://snipcart.com/blog/jekyll-ecommerce-tutorial )
     -   Overriding Jekyll’s default theme
     -   Integrating a shopping cart
     -   Deploying a Jekyll e-commerce website
+
+Finished Project ( https://5d78a081d88199000851498f--pensive-kilby-5d0bb6.netlify.com/#/ )
